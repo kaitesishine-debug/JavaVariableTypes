@@ -12,6 +12,7 @@ public class Course {
         this.courseName = courseName;
         this.numberOfStudents = numberOfStudents;
 
+        // Adds th number of students to the total integer value
         totalStudents += numberOfStudents;
     }
 
