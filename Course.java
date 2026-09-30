@@ -27,6 +27,8 @@ public class Course {
 
         System.out.println("Course: " + courseName);
         System.out.println("Number of Students: " + numberOfStudents);
+
+        // Displays the calculated average attendance
         System.out.println("Average Attendance: " + averageAttendance); 
 
     }
