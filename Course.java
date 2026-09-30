@@ -27,6 +27,7 @@ public class Course {
 
     }
 
+    // Displays statistics for all courses in the university
     public static void displayUniversityStatistics() {
         System.out.println("Total Students Across All Courses: " + totalStudents);
     }
