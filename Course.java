@@ -15,6 +15,7 @@ public class Course {
         totalStudents += numberOfStudents;
     }
 
+    // Displays statistics for an individual course
     public void displayStatistics() {
 
         double averageAttendance = numberOfStudents * 0.90;
