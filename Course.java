@@ -1,3 +1,5 @@
+
+// Represents a university course and its students statistics
 public class Course {
 
     // Instance variables for each course
