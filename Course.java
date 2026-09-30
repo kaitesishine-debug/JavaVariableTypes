@@ -18,6 +18,7 @@ public class Course {
     // Displays statistics for an individual course
     public void displayStatistics() {
 
+        // Uses double to store the calculated attendance value
         double averageAttendance = numberOfStudents * 0.90;
 
 
