@@ -7,6 +7,7 @@ public class Course {
     // Static variable shared by all Courses
     private static int totalStudents = 0;
 
+    //Constructor initializes the course details
     public Course(String courseName, int numberOfStudents) {
         this.courseName = courseName;
         this.numberOfStudents = numberOfStudents;
