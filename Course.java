@@ -1,7 +1,10 @@
 public class Course {
+
+    // Instance variables for each course
     private String courseName;
     private int numberOfStudents;
 
+    // Static variable shared by all Courses
     private static int totalStudents = 0;
 
     public Course(String courseName, int numberOfStudents) {
